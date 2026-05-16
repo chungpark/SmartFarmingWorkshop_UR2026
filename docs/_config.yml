@@ -1,0 +1,12 @@
+title: "UR 2026 Workshop: Smart Farming 4.0 and Digital Farming"
+description: "Toward Smart Farming 4.0 and Digital Farming: Challenges and Opportunities in Agricultural Robotics"
+theme: minima
+
+header_pages:
+  - call-for-short-papers.md
+  - program.md
+  - organizers.md
+  - venue.md
+
+minima:
+  skin: classic

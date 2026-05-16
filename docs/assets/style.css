@@ -1,0 +1,17 @@
+/* Optional custom styling.
+   GitHub Pages with the minima theme will work without this file.
+   To use custom CSS, add a layout override or include this file in a custom theme setup. */
+
+.site-title {
+  font-weight: 700;
+}
+
+table {
+  width: 100%;
+}
+
+blockquote {
+  border-left: 4px solid #ccc;
+  padding-left: 1rem;
+  color: #555;
+}
