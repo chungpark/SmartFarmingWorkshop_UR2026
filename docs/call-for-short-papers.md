@@ -77,7 +77,7 @@ Accepted submissions may be invited for one of the following formats:
 
 ## Submission Link
 
-Submission method: Please email to `chpark@gwu.edu` with the title ""UR2026 Smart Farming Workshop Submission - (Your Name)"" with the required information as above.
+Submission method: Please email to `chpark@gwu.edu` with the title ""UR2026 Smart Farming Workshop Submission (type) - (Your Name)"" with the required information as above.
 
 ## Publication and Archival Status
 
