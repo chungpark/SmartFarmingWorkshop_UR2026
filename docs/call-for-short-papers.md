@@ -47,14 +47,12 @@ Submissions may address, but are not limited to:
 
 ## Paper Format
 
-Suggested format:
-
 - **Length:** 2–4 pages, including references
 - **Format:** IEEE conference paper format
 - **File type:** PDF
 - **Language:** English
 
-Please use the standard IEEE conference template unless otherwise announced.
+Please use the standard IEEE conference template.
 
 ## Review and Selection
 
@@ -72,32 +70,18 @@ Accepted submissions may be invited for one of the following formats:
 | Item | Date |
 |---|---|
 | Submission site opens | TBD |
-| Submission deadline | TBD |
-| Suggested tentative deadline | June 5, 2026, 23:59 AoE |
-| Acceptance notification | TBD |
-| Suggested tentative notification | June 19, 2026 |
-| Final materials due | TBD |
-| Suggested tentative date | June 30, 2026 |
+| Submission deadline | June 10, 2026, 23:59 AoE |
+| Acceptance notification | June 20, 2026 |
+| Final materials due | June 30, 2026 |
 | Workshop date | July 15, 2026 |
 
 ## Submission Link
 
 Submission link: **TBD**
 
-Suggested options:
-
-1. Google Form with PDF upload
-2. Microsoft Forms with PDF upload
-3. EasyChair
-4. OpenReview
-5. Email submission to a workshop organizer
-
 ## Publication and Archival Status
 
 Publication status: **TBD**
 
-Suggested wording to finalize:
+Accepted workshop submissions will be used for workshop presentation and discussion. Unless otherwise announced, workshop papers are non-archival and will not appear in the official IEEE conference proceedings.
 
-> Accepted workshop submissions will be used for workshop presentation and discussion. Unless otherwise announced, workshop papers are non-archival and will not appear in the official IEEE conference proceedings.
-
-Please revise this statement based on UR 2026 organizer guidance.
