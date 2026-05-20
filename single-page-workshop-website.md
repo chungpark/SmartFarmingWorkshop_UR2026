@@ -30,7 +30,7 @@ This workshop will provide a focused forum for discussing the technical, transla
 
 We invite short papers, extended abstracts, work-in-progress reports, position papers, dataset/system descriptions, and field deployment reports related to agricultural robotics and digital farming.
 
-Suggested submission format:
+Submission format:
 
 - **Length:** 2–4 pages, including references
 - **Format:** IEEE conference paper format
@@ -197,11 +197,9 @@ Suggested options:
 
 Publication status: **TBD**
 
-Suggested wording to finalize:
+Accepted workshop submissions will be used for workshop presentation and discussion. Unless otherwise announced, workshop papers are non-archival and will not appear in the official IEEE conference proceedings.
 
-> Accepted workshop submissions will be used for workshop presentation and discussion. Unless otherwise announced, workshop papers are non-archival and will not appear in the official IEEE conference proceedings.
 
-Please revise this statement based on UR 2026 organizer guidance.
 
 
 ---
