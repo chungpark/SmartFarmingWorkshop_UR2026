@@ -21,10 +21,9 @@ This workshop will provide a focused forum for discussing the technical, transla
 ## News
 
 - **Workshop accepted at UR 2026.**
-- **Short paper submissions will open soon.**  
-  Submission deadline: **TBD**  
-  Suggested tentative deadline: **June 5, 2026, 23:59 AoE**  
-  Submission link: **TBD**
+- **Accepting submissions now.**  
+- Submission deadline: June 10, 2026, 23:59 AoE**  
+- Submission method: Please email to `chpark@gwu.edu` with the title ""UR2026 Smart Farming Workshop Submission - (Your Name)"" with the required information as above.
 
 ## Call for Short Papers
 
@@ -35,7 +34,6 @@ Submission format:
 - **Length:** 2–4 pages, including references
 - **Format:** IEEE conference paper format
 - **File type:** PDF
-- **Submission link:** TBD
 - **Review:** Light peer review by the workshop organizers and program committee
 - **Presentation format:** Accepted submissions may be invited for short spotlight talks, posters, or discussion presentations depending on the final program structure.
 
@@ -76,13 +74,10 @@ This workshop is intended for researchers, students, practitioners, and industry
 
 | Item | Date |
 |---|---|
-| Short paper submission opens | TBD |
-| Short paper submission deadline | TBD |
-| Suggested tentative deadline | June 5, 2026 |
-| Acceptance notification | TBD |
-| Suggested tentative notification | June 19, 2026 |
-| Final materials due | TBD |
-| Suggested tentative date | June 30, 2026 |
+| Short paper submission opens | May 20, 2026 |
+| Short paper submission deadline | June 10, 2026 |
+| Acceptance notification | June 20, 2026 |
+| Final materials due | June 30, 2026 |
 | Workshop | July 15, 2026, 13:00–17:30 JST |
 
 ## Organizers
@@ -95,8 +90,7 @@ This workshop is intended for researchers, students, practitioners, and industry
 
 For questions, please contact:
 
-**Workshop organizers:** TBD  
-Suggested contact format: `organizer-email@example.edu`
+**Workshop organizers:** `chpark@gwu.edu`
 
 ## Acknowledgment
 
@@ -148,8 +142,6 @@ Submissions may address, but are not limited to:
 
 ## Paper Format
 
-Suggested format:
-
 - **Length:** 2–4 pages, including references
 - **Format:** IEEE conference paper format
 - **File type:** PDF
@@ -181,9 +173,9 @@ Accepted submissions may be invited for one of the following formats:
 | Suggested tentative date | June 30, 2026 |
 | Workshop date | July 15, 2026 |
 
-## Submission Link
+## Submission Method
 
-Submission link: **TBD**
+Submission : Please email your
 
 Suggested options:
 
