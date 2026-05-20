@@ -23,7 +23,7 @@ This workshop will provide a focused forum for discussing the technical, transla
 - **Workshop accepted at UR 2026.**
 - **Short paper submissions is open.**  
   Submission deadline: June 10, 2026, 23:59 AoE**  
-  Submission method: Please email to `chpark@gwu.edu` with the title ""UR2026 Smart Farming Workshop Submission (type) - (Your Name)"" with the required information as above.
+  Submission method: Please email to `chpark@gwu.edu` with the title **“UR2026 Smart Farming Workshop Submission (type) - (Your Name)"** with the required information as above.
 
 ## Call for Short Papers
 
@@ -32,7 +32,7 @@ We invite short papers, extended abstracts, work-in-progress reports, position p
 - **Length:** 2–4 pages, including references
 - **Format:** IEEE conference paper format
 - **File type:** PDF
-- Submission method: Please email to `chpark@gwu.edu` with the title ""UR2026 Smart Farming Workshop Submission (type) - (Your Name)"" with the required information as above.
+- Submission method: Please email to `chpark@gwu.edu` with the title **“UR2026 Smart Farming Workshop Submission (type) - (Your Name)"** with the required information as above.
 - **Review:** Light peer review by the workshop organizers and program committee
 - **Presentation format:** Accepted submissions may be invited for short spotlight talks, posters, or discussion presentations depending on the final program structure.
 
