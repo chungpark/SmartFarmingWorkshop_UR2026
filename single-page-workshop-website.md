@@ -265,12 +265,10 @@ Chung Hyuk Park is a faculty member in the Department of Biomedical Engineering 
 
 ## Contact
 
-Workshop contact email: **TBD**
+Workshop contact email: 
 
-Suggested format:
-
-- Primary contact: `organizer-email@example.edu`
-- General inquiries: `organizer-email@example.edu`
+- Primary contact: `chpark@gwu.edu`
+- General inquiries: `yonghyun.kim@gwu.edu`
 
 
 ---
