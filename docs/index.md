@@ -95,8 +95,9 @@ This workshop is intended for researchers, students, practitioners, and industry
 
 For questions, please contact:
 
-**Workshop organizers:** TBD  
-Suggested contact format: `organizer-email@example.edu`
+**Workshop organizers:** 
+Primary contact: `chpark@gwu.edu`
+General inquiries: `yonghyun.kim@gwu.edu`
 
 ## Acknowledgment
 
