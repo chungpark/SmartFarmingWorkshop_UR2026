@@ -69,7 +69,7 @@ Accepted submissions may be invited for one of the following formats:
 
 | Item | Date |
 |---|---|
-| Submission site opens | TBD |
+| Submission method | Email to organizers |
 | Submission deadline | June 10, 2026, 23:59 AoE |
 | Acceptance notification | June 20, 2026 |
 | Final materials due | June 30, 2026 |
@@ -77,11 +77,11 @@ Accepted submissions may be invited for one of the following formats:
 
 ## Submission Link
 
-Submission link: **TBD**
+Submission method: Please email to `chpark@gwu.edu` with the title ""UR2026 Smart Farming Workshop Submission - (Your Name)"" with the required information as above.
 
 ## Publication and Archival Status
 
-Publication status: **TBD**
+Publication status: ""Accepting Submissions""
 
 Accepted workshop submissions will be used for workshop presentation and discussion. Unless otherwise announced, workshop papers are non-archival and will not appear in the official IEEE conference proceedings.
 
