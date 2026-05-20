@@ -76,13 +76,10 @@ This workshop is intended for researchers, students, practitioners, and industry
 
 | Item | Date |
 |---|---|
-| Short paper submission opens | TBD |
-| Short paper submission deadline | TBD |
-| Suggested tentative deadline | June 5, 2026 |
-| Acceptance notification | TBD |
-| Suggested tentative notification | June 19, 2026 |
-| Final materials due | TBD |
-| Suggested tentative date | June 30, 2026 |
+| Short paper submission opens | May 20, 2026 |
+| Short paper submission deadline | June 10, 2026 |
+| Acceptance notification | June 20, 2026 |
+| Final materials due | June 30, 2026 |
 | Workshop | July 15, 2026, 13:00–17:30 JST |
 
 ## Organizers
