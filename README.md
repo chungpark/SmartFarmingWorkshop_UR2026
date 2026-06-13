@@ -36,12 +36,10 @@ Please update these placeholders:
 - `docs/organizers.md`
   - Organizer bios, emails, and website links
 
-## Suggested tentative timeline
+## Tentative timeline
 
-These are only suggested dates and should be finalized by the organizers:
-
-- Short paper submission deadline: **June 5, 2026**
-- Acceptance notification: **June 19, 2026**
+- Short paper submission deadline: **June 20, 2026**
+- Acceptance notification: **June 25, 2026**
 - Final materials due: **June 30, 2026**
 - Workshop date: **July 15, 2026, 13:00–17:30 JST**
 
