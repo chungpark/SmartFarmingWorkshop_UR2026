@@ -22,7 +22,7 @@ This workshop will provide a focused forum for discussing the technical, transla
 
 - **Workshop accepted at UR 2026.**
 - **Short paper submissions is open.**  
-  Submission deadline: June 10, 2026, 23:59 AoE**  
+  Submission deadline: June 20, 2026, 23:59 AoE**  
   Submission method: Please email to `chpark@gwu.edu` with the title **“UR2026 Smart Farming Workshop Submission (type) - (Your Name)"** with the required information as above.
 
 ## Call for Short Papers
@@ -74,8 +74,8 @@ This workshop is intended for researchers, students, practitioners, and industry
 | Item | Date |
 |---|---|
 | Short paper submission opens | May 20, 2026 |
-| Short paper submission deadline | June 10, 2026 |
-| Acceptance notification | June 20, 2026 |
+| Short paper submission deadline | June 20, 2026 |
+| Acceptance notification | June 25, 2026 |
 | Final materials due | June 30, 2026 |
 | Workshop | July 15, 2026, 13:00–17:30 JST |
 
