@@ -22,7 +22,7 @@ This workshop will provide a focused forum for discussing the technical, transla
 
 - **Workshop accepted at UR 2026.**
 - **Accepting submissions now.**  
-- Submission deadline: June 10, 2026, 23:59 AoE**  
+- Submission deadline: June 20, 2026, 23:59 AoE**  
 - Submission method: Please email to `chpark@gwu.edu` with the title ""UR2026 Smart Farming Workshop Submission (type) - (Your Name)"" with the required information as above.
 
 
@@ -166,8 +166,8 @@ Accepted submissions may be invited for one of the following formats:
 | Item | Date |
 |---|---|
 | Submission site opens | May 20, 2026 |
-| Submission deadline | June 10, 2026, 23:59 AoE |
-| Acceptance notification | June 20, 2026 |
+| Submission deadline | June 20, 2026, 23:59 AoE |
+| Acceptance notification | June 25, 2026 |
 | Final materials due | June 30, 2026 |
 | Workshop date | July 15, 2026 |
 
