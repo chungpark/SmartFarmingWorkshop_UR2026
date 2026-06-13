@@ -70,8 +70,8 @@ Accepted submissions may be invited for one of the following formats:
 | Item | Date |
 |---|---|
 | Submission method | Email to organizers |
-| Submission deadline | June 10, 2026, 23:59 AoE |
-| Acceptance notification | June 20, 2026 |
+| Submission deadline | June 20, 2026, 23:59 AoE |
+| Acceptance notification | June 25, 2026 |
 | Final materials due | June 30, 2026 |
 | Workshop date | July 15, 2026 |
 
