@@ -79,7 +79,7 @@ This workshop is intended for researchers, students, practitioners, and industry
 | Short paper submission deadline | June 20, 2026 |
 | Acceptance notification | June 25, 2026 |
 | Final materials due | June 30, 2026 |
-| Workshop | July 15, 2026, 13:00–17:30 JST |
+| Workshop | July 15, 2026, 13:00–16:30 JST |
 
 ## Organizers
 
@@ -258,7 +258,7 @@ Workshop contact email:
 The workshop will be held as part of the **23rd International Conference on Ubiquitous Robots (UR 2026)**.
 
 - **Date:** Wednesday, July 15, 2026
-- **Time:** 13:00–17:30 JST
+- **Time:** 13:00–16:30 JST
 - **Venue:** Ritsumeikan University, Osaka Ibaraki Campus, Ibaraki, Osaka, Japan
 - **Conference:** July 15–18, 2026
 - **Conference website:** [UR 2026](https://2026.ubiquitousrobots.org/)
