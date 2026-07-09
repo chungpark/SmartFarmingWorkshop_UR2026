@@ -209,24 +209,15 @@ The final program will be updated as invited speakers and accepted short paper p
 | Time | Session |
 |---|---|
 | 13:00–13:10 | Opening remarks and workshop overview |
-| 13:10–13:40 | Invited Talk 1: Agricultural robotics in field or greenhouse deployment |
-| 13:40–14:10 | Invited Talk 2: Digital agriculture, sensing, monitoring, or digital twin systems |
-| 14:10–14:40 | Invited Talk 3: Robot learning, perception, or manipulation for unstructured agricultural tasks |
-| 14:40–15:00 | Break |
-| 15:00–15:50 | Contributed spotlight talks from accepted short papers |
-| 15:50–16:30 | Panel discussion: What is preventing agricultural robots from scaling beyond prototypes? |
-| 16:30–17:15 | Open discussion and roadmap-building session |
-| 17:15–17:30 | Closing summary |
+| 13:10–13:40 | Invited Talk 1: Robotics for microfarms (Dr. David Colliaux) |
+| 13:40–14:10 | Oepn Talk 1: Robot-Assisted Strawberry Growth Stage Identification and Daily Tracking with Physics-Informed Unscented Kalman Filter (Yeji Kim) |
+| 14:10–14:40 | Invited Talk 2: Light-Intensity-Based Sensing Technologies for Intelligent Robotic Systems (Dr. Yohan Noh) |
+| 14:40–15:00 | Open Talk 2: Low-cost automated greenhouse imaging system (Yong Hyun Kim) |
+| 15:00–15:30	| Coffee break |
+| 15:30–15:50 | Invited Talk 3: TBD (Seungjoon Yi) |
+| 15:50–16:20 | Panel/Open discussion: What could be the key milestones for the future of smart farming? |
+| 16:20–16:30 | Closing summary |
 
-## Prospective Invited Speakers
-
-The invited-speaker slate will be updated after confirmation.
-
-- Ho Seok Ahn, University of Auckland
-- Daeyoung Kim, Seoul National University
-- Seung-Joon Yi, Pusan National University
-- Richard J. Kang, FarmyirehSe Co., Ltd.
-- Technical representative from FarmyirehSe or a related agri-tech organization
 
 ## Contributed Presentations
 
