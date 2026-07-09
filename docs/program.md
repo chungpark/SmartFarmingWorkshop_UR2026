@@ -23,7 +23,7 @@ The final program will be updated as invited speakers and accepted short paper p
 | 14:10–14:40 | Invited Talk 2: Light-Intensity-Based Sensing Technologies for Intelligent Robotic Systems (Dr. Yohan Noh) |
 | 14:40–15:00 | Open Talk 2: Low-cost automated greenhouse imaging system (Yong Hyun Kim) |
 | 15:00–15:30 | Coffee Break |
-| 15:30–15:50 | Invited Talk 3: TBD (Seungjoon Yi) |
+| 15:30–15:50 | Invited Talk 3: TBD (Dr. Seung-Joon Yi) |
 | 15:50–16:20 | Panel/Open discussion: What could be the key milestones for the future of smart farming? |
 | 16:20–16:30 | Closing summary |
 
